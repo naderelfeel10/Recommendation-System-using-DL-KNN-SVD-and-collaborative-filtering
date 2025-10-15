@@ -1,0 +1,6 @@
+2025-10-15 14:20:10 [INFO] Starting user-based collaborative filtering evaluation...
+2025-10-15 14:20:10 [INFO] Model initialized successfully.
+2025-10-15 14:20:10 [INFO] Mean test precision: 0.4513
+2025-10-15 14:28:03 [INFO] Starting user-based collaborative filtering evaluation...
+2025-10-15 14:28:03 [INFO] Model initialized successfully.
+2025-10-15 14:28:03 [INFO] Mean test precision: 0.4513
