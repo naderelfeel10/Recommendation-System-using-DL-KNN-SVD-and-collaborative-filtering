@@ -1,4 +1,4 @@
-Movie Recommender System! 🎬
+Movie Recommender System! 
 
 I’ve been building a personalized movie recommendation platform using Python, TensorFlow, SVD ,KNN and Streamlit. This project combines multiple approaches to suggest movies to users:
 
